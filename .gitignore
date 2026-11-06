@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+signaling_key.pem
+signaling_cert.pem
